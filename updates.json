@@ -9,22 +9,22 @@
           "name": "G-Code-Assistant-Setup-1000.261007.5.exe",
           "state": "uploaded",
           "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261007.5/G-Code-Assistant-Setup-1000.261007.5.exe",
-          "size": 195796159,
-          "digest": "sha256:04d7e05ec2d7f63493d36092ac57b99de0688bb255b6e7972bd83dd2a8343e97"
+          "size": 180812655,
+          "digest": "sha256:1733e56c7bdb3546aefeb6eedd90f7f5217174e1220f461112e7abde45432851"
         },
         {
           "name": "G-Code-Assistant-win32-x64-1000.261007.5.zip",
           "state": "uploaded",
           "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261007.5/G-Code-Assistant-win32-x64-1000.261007.5.zip",
-          "size": 260850190,
-          "digest": "sha256:ed8844f6cf451c24438122fa11fc91799e0bc5b3d0a08f5f5b38779580e886e9"
+          "size": 260863548,
+          "digest": "sha256:f5d10d88a4a60a21ec736071f5390036ba3b87dc49e71e7652498bd7f64c6a97"
         },
         {
           "name": "SHA256SUMS.txt",
           "state": "uploaded",
           "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261007.5/SHA256SUMS.txt",
           "size": 218,
-          "digest": "sha256:754a47897b998fe58418aa773dcd62e193be1fe0ad752aef7e29ccaf01c86a74"
+          "digest": "sha256:4fead92d21718295eaf04830f8fe072255d4794213bcf1276b7d2ed4137c716f"
         }
       ]
     }
