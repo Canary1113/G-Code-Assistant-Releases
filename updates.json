@@ -2,29 +2,29 @@
   "schemaVersion": 1,
   "releases": [
     {
-      "tag_name": "v1000.261006.5",
+      "tag_name": "v1000.261007.5",
       "draft": false,
       "assets": [
         {
-          "name": "G-Code-Assistant-Setup-1000.261006.5.exe",
+          "name": "G-Code-Assistant-Setup-1000.261007.5.exe",
           "state": "uploaded",
-          "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261006.5/G-Code-Assistant-Setup-1000.261006.5.exe",
-          "size": 180774703,
-          "digest": "sha256:90cae840e39659373e88d366b944462928727091c16dbe9c8bbae8adc5c41abf"
+          "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261007.5/G-Code-Assistant-Setup-1000.261007.5.exe",
+          "size": 195796159,
+          "digest": "sha256:04d7e05ec2d7f63493d36092ac57b99de0688bb255b6e7972bd83dd2a8343e97"
         },
         {
-          "name": "G-Code-Assistant-win32-x64-1000.261006.5.zip",
+          "name": "G-Code-Assistant-win32-x64-1000.261007.5.zip",
           "state": "uploaded",
-          "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261006.5/G-Code-Assistant-win32-x64-1000.261006.5.zip",
-          "size": 260850005,
-          "digest": "sha256:c737b3268712e5ea14a8ec295181b930fd52846202b3fba8fa93677c48889f82"
+          "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261007.5/G-Code-Assistant-win32-x64-1000.261007.5.zip",
+          "size": 260850190,
+          "digest": "sha256:ed8844f6cf451c24438122fa11fc91799e0bc5b3d0a08f5f5b38779580e886e9"
         },
         {
           "name": "SHA256SUMS.txt",
           "state": "uploaded",
-          "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261006.5/SHA256SUMS.txt",
+          "browser_download_url": "https://github.com/Canary1113/G-Code-Assistant-Releases/releases/download/v1000.261007.5/SHA256SUMS.txt",
           "size": 218,
-          "digest": "sha256:b9efb1b86eea8f6e6c186f6e5399fdb59c5e125feb1a2982e6a3acef99faa617"
+          "digest": "sha256:754a47897b998fe58418aa773dcd62e193be1fe0ad752aef7e29ccaf01c86a74"
         }
       ]
     }
